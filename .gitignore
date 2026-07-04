@@ -1,0 +1,6 @@
+.vscode/
+.idea/
+*.rbxl.lock
+*.rbxlx.lock
+*.tmp
+

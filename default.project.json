@@ -1,0 +1,13 @@
+{
+  "name": "Cache Module",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "Cache": {
+        "$path": "Cache"
+      }
+    }
+  }
+}
+
